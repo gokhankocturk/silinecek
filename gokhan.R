@@ -10,3 +10,4 @@
 # stash denemesi
 # SSH SONRASI
 # FETCH DENEMESI
+# GITHUBDA YAZDIM
