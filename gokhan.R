@@ -9,3 +9,4 @@
 # GITHUB 2222
 # stash denemesi
 # SSH SONRASI
+# FETCH DENEMESI
